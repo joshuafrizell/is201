@@ -1,0 +1,24 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* color: yellow !important; */
+}
+
+.navbar-brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mb-0 {
+    color: yellow;
+}
+
+.notyellow {
+    color: black;
+}
+
+.showcase-img {
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.5);
+}
+
+.text-primary {
+    box-shadow: 30px 30px 40px rgba(0, 0, 0, 0);
+}

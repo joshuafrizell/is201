@@ -1,0 +1,56 @@
+body {
+    background-color: navy;
+    color: white;
+    /*text color*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+h5 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+    opacity: 50%;
+    font-weight: bolder;
+}
+
+a {
+    color: royalblue;
+}
+
+a:visited {
+    color: purple;
+}
+
+img {
+    border: 2px solid grey;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    text-align: center;
+    font-style: oblique;
+    margin: 50px;
+    color: red;
+    font-size: xx-large;
+    font-family: fantasy;
+    text-shadow: gold;
+}
+.rizz:hover{
+    font-family: 'Comic Sans MS';
+    color: goldenrod;
+}
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
